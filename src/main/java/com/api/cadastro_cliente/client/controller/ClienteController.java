@@ -1,4 +1,4 @@
-package com.api.cadastro_cliente.controller;
+package com.api.cadastro_cliente.client.controller;
 
 import com.api.cadastro_cliente.domain.model.Cliente;
 import com.api.cadastro_cliente.domain.repository.ClienteRepository;

@@ -1,4 +1,4 @@
-package com.api.cadastro_cliente.controller.input;
+package com.api.cadastro_cliente.client.controller.model.input;
 
 import javax.validation.constraints.NotNull;
 import org.springframework.web.multipart.MultipartFile;
