@@ -51,7 +51,19 @@
 			<artifactId>modelmapper</artifactId>
 			<version>${modelmapper.version}</version>
 		</dependency>
-	</dependencies>
+ 		<dependency>
+ 	   <groupId>com.google.code.gson</groupId>
+    		<artifactId>gson</artifactId>
+   		 <version>2.9.1</version>
+		</dependency>
+
+	
+   <dependency>
+     <groupId>com.sun.faces</groupId>
+     <artifactId>jsf-api</artifactId>
+     <version>2.2.20</version>
+   </dependency>
+ </dependencies>
 
 	<build>
 		<plugins>
