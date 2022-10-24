@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "cadastro_cliente.storage.local.diretorio-fotos",
+  "type": "java.lang.String",
+  "description": "A description for 'cadastro_cliente.storage.local.diretorio-fotos'"
+}]}
